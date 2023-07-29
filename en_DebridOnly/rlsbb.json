@@ -1,9 +1,6 @@
 {
   "name": "ReleaseBB",
-  "language": [
-    "hi",
-    "en"
-  ],
+  "language": ["en"],
   "domains": [
     "rlsbb.ru",
     "rlsbb.to",
