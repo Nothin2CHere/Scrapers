@@ -1,9 +1,6 @@
 {
   "name": "Bull",
-  "language": [
-    "hi",
-    "en"
-  ],
+  "language": ["en"],
   "domains": [
     "bulltorrent.com"
   ],
