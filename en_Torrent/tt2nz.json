@@ -1,6 +1,6 @@
 {
   "name": "Tt2NZ",
-  "language": ["hi", "en"],
+  "language": ["en"],
   "domains": ["torrentz2.nz"],
   "base_url": "https://torrentz2.nz",
   "search_url_format_episode": {
