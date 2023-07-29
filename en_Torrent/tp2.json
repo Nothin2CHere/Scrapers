@@ -1,9 +1,6 @@
 {
   "name": "TP2",
-  "language": [
-    "en",
-    "hi"
-  ],
+  "language": ["en"],
   "domains": [
     "torrentproject2.com",
     "torrentproject.torrentbay.to"
