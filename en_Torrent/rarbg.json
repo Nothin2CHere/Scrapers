@@ -1,9 +1,6 @@
 {
   "name": "rarbg",
-  "language": [
-    "hi",
-    "en"
-  ],
+  "language": ["en"],
   "domains": [
     "torrentapi.org"
   ],
