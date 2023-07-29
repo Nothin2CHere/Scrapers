@@ -1,9 +1,6 @@
 {
 	"name": "FreshMeat",
-	"language": [
-		"en",
-		"hi"
-	],
+	"language": ["en"],
 	"domains": [
 		"freshmeat.io"
 	],
