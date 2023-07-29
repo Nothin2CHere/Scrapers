@@ -1,9 +1,6 @@
 {
   "name": "OnlyTorrents",
-  "language": [
-    "hi",
-    "en"
-  ],
+  "language": ["en"],
   "domains": [
     "onlytorrents.net"
   ],
