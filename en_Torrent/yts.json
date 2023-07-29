@@ -1,9 +1,6 @@
 {
   "name": "yts",
-  "language": [
-    "hi",
-    "en"
-  ],
+  "language": ["en"],
   "domains": [
     "yts.ws",
     "yts.unblockedfor.me",
