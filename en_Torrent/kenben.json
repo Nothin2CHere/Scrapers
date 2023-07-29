@@ -1,9 +1,6 @@
 {
   "name": "KnaBen",
-  "language": [
-    "hi",
-    "en"
-  ],
+  "language": ["en"],
   "domains": [
     "knaben.eu"
   ],
