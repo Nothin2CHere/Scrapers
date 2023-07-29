@@ -1,9 +1,6 @@
 {
   "name": "torrentdownload",
-  "language": [
-    "hi",
-    "en"
-  ],
+  "language": ["en"],
   "domains": [
     "torrentdownload.ch",
     "torrentdownload.info"
