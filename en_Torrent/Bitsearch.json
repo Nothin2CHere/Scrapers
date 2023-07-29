@@ -1,6 +1,6 @@
 {
 	"name": "BitSearch",
-	"language": ["hi", "en"],
+	"language": ["en"],
 	"domains": ["bitsearch.to"],
 	"base_url": "https://bitsearch.to",
 	"search_url_format_episode": {
