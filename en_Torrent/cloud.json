@@ -1,9 +1,6 @@
 {
 	"name": "CloudTorrent",
-	"language": [
-		"en",
-		"hi"
-	],
+	"language": ["en"],
 	"domains": [
 		"cloudtorrents.com"
 	],
