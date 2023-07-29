@@ -1,9 +1,6 @@
 {
   "name": "Animetosho",
-  "language": [
-    "hi",
-    "en"
-  ],
+  "language": ["en"],
   "domains": [
     "mirror.animetosho.org",
     "animetosho.org"
