@@ -1,9 +1,6 @@
 {
   "name": "rutor",
-  "language": [
-    "hi",
-    "en"
-  ],
+  "language": ["en"],
   "domains": [
     "rutor.info"
   ],
