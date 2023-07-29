@@ -1,6 +1,6 @@
 {
   "name": "glotorrents",
-  "language": ["hi", "en"],
+  "language": ["en"],
   "domains": ["glodls.to"],
   "base_url": "http://treinandoseo.esy.es/seo-panel/plugins/QuickWebProxy/miniProxy.php?https://glodls.to",
   "search_url_format_episode": {
