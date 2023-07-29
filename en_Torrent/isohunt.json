@@ -1,9 +1,6 @@
 {
     "name": "isohunt",
-    "language": [
-      "hi",
-      "en"
-    ],
+    "language": ["en"],
     "domains": [
       "isohunt.nz"
     ],
