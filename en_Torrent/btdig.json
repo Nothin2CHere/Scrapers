@@ -1,9 +1,6 @@
 {
   "name": "BT-Dig",
-  "language": [
-    "hi",
-    "en"
-  ],
+  "language": ["en"],
   "domains": [
     "btdig.com"
   ],
