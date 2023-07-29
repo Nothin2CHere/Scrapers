@@ -1,9 +1,6 @@
 {
   "name": "concen",
-  "language": [
-    "hi",
-    "en"
-  ],
+  "language": ["en"],
   "domains": [
     "concen.org"    
   ],
