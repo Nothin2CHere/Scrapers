@@ -1,9 +1,6 @@
 {
   "name": "BitCQ",
-  "language": [
-    "hi",
-    "en"
-  ],
+  "language": ["en"],
   "domains": [
     "bitcq.com"
   ],
