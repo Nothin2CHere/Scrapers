@@ -1,6 +1,6 @@
 {
     "name": "torlock-M",
-    "language": ["hi", "en"],
+    "language": ["en"],
     "domains": ["torlock.com", "torlock.unblockit.pro", "torlock.cc", "torlock2.d4.re", "torlock.unblockit.ch"],
     "base_url": "https://www.torlock2.com",    
     "search_url_format_movie": {
