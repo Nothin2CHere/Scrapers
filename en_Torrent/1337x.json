@@ -1,9 +1,6 @@
 {
 	"name": "1337x",
-	"language": [
-		"en",
-		"hi"
-	],
+	"language": ["en"],
 	"domains": [
 		"1337x.to",
 		"1337xx.to",
