@@ -1,6 +1,6 @@
 {
     "name": "limetorrents",
-    "language": ["hi", "en"],
+    "language": ["en"],
     "domains": ["limetorrents.info", "limetorrents.unblockit.onl", "limetorrents.pro", "limetorrent.cc", "limetorrentx.cc"],
     "base_url": "https://www.limetorrents.lol",
     "search_url_format_episode": {
